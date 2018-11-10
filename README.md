@@ -1,5 +1,3 @@
-# Software Engineering
-So this is the File we all will read to see how to use each file in here.
-
-
-hello man
+# Project: Harris Operator in 3D
+Log:
+[10/11/2018]: Ref Source Code added to the repository in "Harris-Ivan(2011)" branch.
