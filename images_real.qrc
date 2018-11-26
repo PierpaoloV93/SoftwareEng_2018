@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/background_window_1.jpg</file>
+        <file>Images/logo.jpeg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Images/male-body-base-mesh-3d-model-rigged-max-obj.jpg</file>
+        <file>Images/mesh.jpg</file>
+        <file>Images/background_window_1.jpg</file>
+        <file>Images/logo.jpeg</file>
+    </qresource>
+</RCC>
